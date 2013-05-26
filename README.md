@@ -1,0 +1,2 @@
+# SailsProject
+### a Sails application
